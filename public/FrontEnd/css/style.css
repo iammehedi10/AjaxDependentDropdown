@@ -1,0 +1,21 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+body{
+	background: #F2DEDE;
+}
+
+.registerform{
+	margin-top: 5%;
+}
+
+label.error {
+    color: red;
+    font-weight: 300;
+}
+
+.dtbtn{
+	margin-left: 54%;
+}
